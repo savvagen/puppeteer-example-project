@@ -1,4 +1,3 @@
-const WebPage = require('./web_page');
 const puppeteer = require('puppeteer');
 const ResultPage = require('./result_page');
 
