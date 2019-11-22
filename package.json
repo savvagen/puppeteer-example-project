@@ -1,0 +1,20 @@
+{
+  "name": "puppeteer-example-project",
+  "version": "1.0.0",
+  "description": "Exmple project for Pupeteer testing lib",
+  "main": "spec/HelloWorldTest.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Savva Genchevskiy",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "~1.19.0",
+    "puppeteer-firefox": "^0.5.0",
+    "puppeteer-core": "~1.19.0",
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
